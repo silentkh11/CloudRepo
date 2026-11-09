@@ -1,0 +1,16 @@
+{
+    "students": [
+        {
+            "name": "hamdan khatib",
+            "email": "hamdan.khatib@e.braude.ac.il",
+            "courses": ["Cloud", "Algorithms"],
+            "interesting_link": "https://www.braude.ac.il/en/"
+        },
+        {
+            "name": "mohamad khamra",
+            "email": "mohamad.khamra@e.braude.ac.il",
+            "courses": ["Cloud", "Algorithms"],
+            "interesting_link": "https://roadmap.sh/"
+        }
+    ]
+}
